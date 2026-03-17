@@ -1,0 +1,2 @@
+Model,RMSE,Precision@K,Recall@K,K,Notes
+Neural Net,0.9618277109182626,,,10,"BatchNorm, Dropout=0.3, EarlyStopping patience=5, fixed val split"

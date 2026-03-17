@@ -1,0 +1,31 @@
+userId,movieId,title,predicted_score,rank
+1,163653,David Cross: Making America Great Again (2016),0.9255053537573157,1
+1,172705,Tickling Giants (2017),0.8675940242180786,2
+1,109673,300: Rise of an Empire (2014),0.7704308539528049,3
+1,62383,"20,000 Leagues Under the Sea (1916)",0.7695815539361273,4
+1,4422,Cries and Whispers (Viskningar och rop) (1972),0.7593010635246357,5
+1,39,Clueless (1995),0.600850544228624,6
+1,147328,The Adventures of Sherlock Holmes and Dr. Watson: Bloody Signature (1979),0.5497518572459826,7
+1,136840,Da geht noch was! (2013),0.4664128081765979,8
+1,58303,"Counterfeiters, The (Die Fälscher) (2007)",0.41618346207701196,9
+1,2142,"American Tail: Fievel Goes West, An (1991)",0.3610259091812237,10
+2,135567,Independence Day: Resurgence (2016),0.9269566613107963,1
+2,4146,"Million Dollar Hotel, The (2001)",0.8833268012583636,2
+2,2701,Wild Wild West (1999),0.8705205069627743,3
+2,3330,Splendor in the Grass (1961),0.8642992087844066,4
+2,5452,Look Who's Talking Now (1993),0.8635167475752649,5
+2,43928,Ultraviolet (2006),0.8327695199633294,6
+2,59141,Son of Rambow (2007),0.8205358638532056,7
+2,72178,Welcome to Dongmakgol (2005),0.8170126809913075,8
+2,52279,Are We Done Yet? (2007),0.8162864619732102,9
+2,169904,Guyver: Dark Hero (1994),0.7879472742328324,10
+3,196,Species (1995),0.9220936430068255,1
+3,95105,Madagascar 3: Europe's Most Wanted (2012),0.9160379039222565,2
+3,108156,Ride Along (2014),0.9109098032090772,3
+3,121171,Red Army (2014),0.8866840553428522,4
+3,80489,"Town, The (2010)",0.7907969605114017,5
+3,88069,Delhi Belly (2011),0.7829271323987035,6
+3,5055,Dragon: The Bruce Lee Story (1993),0.7050991950208284,7
+3,5069,Escaflowne: The Movie (Escaflowne) (2000),0.6528805291292207,8
+3,26796,"Heart in Winter, A (Un coeur en hiver) (1992)",0.637785304089764,9
+3,3496,Madame Sousatzka (1988),0.6113234692231551,10

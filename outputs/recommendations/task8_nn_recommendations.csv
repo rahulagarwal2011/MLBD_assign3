@@ -1,0 +1,31 @@
+userId,movieId,title,predicted_score,rank
+1,74226,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",5.087627,1
+1,6408,Animals are Beautiful People (1974),5.0810633,2
+1,159811,The Bremen Town Musicians (1969),5.0778236,3
+1,2824,On the Ropes (1999),5.0777864,4
+1,25887,Tales of Manhattan (1942),5.0663323,5
+1,26366,Harlan County U.S.A. (1976),5.0635433,6
+1,86237,Connections (1978),5.0607333,7
+1,184245,De platte jungle (1978),5.0607333,8
+1,1151,Lesson Faust (1994),5.057372,9
+1,132333,Seve (2014),5.056693,10
+2,74226,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",4.6340303,1
+2,6408,Animals are Beautiful People (1974),4.627466,2
+2,159811,The Bremen Town Musicians (1969),4.624227,3
+2,2824,On the Ropes (1999),4.6241894,4
+2,25887,Tales of Manhattan (1942),4.6127357,5
+2,26366,Harlan County U.S.A. (1976),4.609947,6
+2,86237,Connections (1978),4.607136,7
+2,184245,De platte jungle (1978),4.607136,8
+2,1151,Lesson Faust (1994),4.603775,9
+2,132333,Seve (2014),4.603097,10
+3,74226,"Dream of Light (a.k.a. Quince Tree Sun, The) (Sol del membrillo, El) (1992)",3.3865852,1
+3,6408,Animals are Beautiful People (1974),3.3800197,2
+3,159811,The Bremen Town Musicians (1969),3.3767807,3
+3,2824,On the Ropes (1999),3.3767452,4
+3,25887,Tales of Manhattan (1942),3.3652902,5
+3,26366,Harlan County U.S.A. (1976),3.362502,6
+3,86237,Connections (1978),3.3596897,7
+3,184245,De platte jungle (1978),3.3596897,8
+3,1151,Lesson Faust (1994),3.356329,9
+3,132333,Seve (2014),3.355651,10

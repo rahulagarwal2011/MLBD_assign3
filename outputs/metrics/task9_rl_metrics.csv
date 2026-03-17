@@ -1,0 +1,4 @@
+Model,Total_Reward,Explorations,Steps,Episodes
+Epsilon-Greedy,62631.0,4941,50000.0,
+UCB,3976.0,9724,50000.0,
+Q-Learning,155758.0,9982,,100000.0

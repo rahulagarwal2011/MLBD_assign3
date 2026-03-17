@@ -1,0 +1,2 @@
+Model,RMSE,Precision@K,Recall@K,K,Notes
+User-Profile CBF,1.3034121556061877,0.4927868852459016,0.628406637799318,10,"TF-IDF profiles from full small dataset; eval on 20164 test ratings, 610 P/R users (vectorized)"

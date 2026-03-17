@@ -1,0 +1,2 @@
+Model,RMSE,Precision@K,Recall@K,K,Notes
+TF-IDF CBF,0.9226848125037903,0.5386885245901639,0.6558940139358084,10,TF-IDF item-item similarity; eval on test items (vectorized)

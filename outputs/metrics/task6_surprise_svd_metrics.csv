@@ -1,0 +1,2 @@
+Model,RMSE,Precision@K,Recall@K,K,Notes
+SVD (Surprise),0.8571782493053158,0.5685245901639344,0.6666821490532865,10,"Best params: {'n_factors': 150, 'n_epochs': 50, 'lr_all': 0.01, 'reg_all': 0.1} (vectorized P/R)"

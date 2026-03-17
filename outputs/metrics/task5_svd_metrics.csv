@@ -1,0 +1,2 @@
+Model,RMSE,Precision@K,Recall@K,K,Notes
+SVD (numpy),0.9179152491286343,0.046885245901639346,0.05909710759642693,10,"k_factors=50, vectorized eval + argpartition"

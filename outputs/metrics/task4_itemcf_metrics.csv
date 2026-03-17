@@ -1,0 +1,2 @@
+Model,RMSE,Precision@K,Recall@K,K,Notes
+Item-CF,0.8436966086239711,0.01672131147540984,0.0035567930224162485,10,"Cosine similarity, K=20 neighbors (vectorized + argpartition)"

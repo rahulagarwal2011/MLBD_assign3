@@ -1,0 +1,31 @@
+userId,movieId,title,predicted_score,rank
+1,3328,Ghost Dog: The Way of the Samurai (1999),0.0,1
+1,57669,In Bruges (2008),0.0,2
+1,3813,Interiors (1978),0.0,3
+1,3771,The Golden Voyage of Sinbad (1973),0.0,4
+1,3972,"Legend of Drunken Master, The (Jui kuen II) (1994)",0.0,5
+1,3618,Small Time Crooks (2000),0.0,6
+1,3262,Twin Peaks: Fire Walk with Me (1992),0.0,7
+1,3477,Empire Records (1995),0.0,8
+1,3677,Baraka (1992),0.0,9
+1,3550,The Hunger (1983),0.0,10
+2,47,Seven (a.k.a. Se7en) (1995),0.0,1
+2,104879,Prisoners (2013),0.0,2
+2,4878,Donnie Darko (2001),0.0,3
+2,79091,Despicable Me (2010),0.0,4
+2,100383,Side Effects (2013),0.0,5
+2,35836,"40-Year-Old Virgin, The (2005)",0.0,6
+2,54001,Harry Potter and the Order of the Phoenix (2007),0.0,7
+2,45720,"Devil Wears Prada, The (2006)",0.0,8
+2,1517,Austin Powers: International Man of Mystery (1997),0.0,9
+2,1645,The Devil's Advocate (1997),0.0,10
+3,1059,William Shakespeare's Romeo + Juliet (1996),0.0,1
+3,2872,Excalibur (1981),0.0,2
+3,101,Bottle Rocket (1996),0.0,3
+3,3052,Dogma (1999),0.0,4
+3,4294,"5,000 Fingers of Dr. T, The (1953)",0.0,5
+3,25771,"Andalusian Dog, An (Chien andalou, Un) (1929)",0.0,6
+3,1235,Harold and Maude (1971),0.0,7
+3,59784,Kung Fu Panda (2008),0.0,8
+3,778,Trainspotting (1996),0.0,9
+3,3672,Benji (1974),0.0,10
